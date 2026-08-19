@@ -1,4 +1,4 @@
-# Hackathon Project Proposal: ShramSamriddhi (Empowering Everyone with Pension, Credit, and Care)
+# ShramSamriddhi (Empowering Everyone with Pension, Credit, and Care)
 ### Subtitle: An AI-Driven Employment Aggregator & Portable Social Security Ecosystem for Unorganized Workers
 
 ---
