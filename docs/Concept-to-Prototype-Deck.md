@@ -3,7 +3,7 @@ Concept-to-Prototype Execution Plan — Hackathon Pitch Deck
 
 Slide 1 — Title & Name 
 - Project name ShramSamriddhi
-- Tagline: "Portable micro-EPF + Gig-matching for unorganized workers"
+- Tagline: "Empowering Everyone with Pension, Credit, and Care"
 - Speaker note: Open with Ramesh story (32-year-old seasonal worker).
 
 ---
