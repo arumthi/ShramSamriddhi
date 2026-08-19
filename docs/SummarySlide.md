@@ -1,7 +1,7 @@
 Here are the high-impact, punchy summary bullet points for your final slide.
 Keep this slide clean, un-cluttered, and highly readable so it sticks in the judges' minds right as your time runs out.
 ------------------------------
-## ShramSetu: Securing the Hands that Build India
+## ShramSamriddhi: Securing the Hands that Build India
 
 * The Unserved Market: 400+ million unorganized workers trapped in income volatility with zero automated long-term safety nets 📇.
 * The Invisible EPF: Turns daily survival into systematic compounding wealth via frictionless daily micro-deductions.
