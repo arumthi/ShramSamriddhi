@@ -9,7 +9,7 @@
 Unorganized and daily wage workers in agriculture, construction, and informal sectors face a double jeopardy: chronic income volatility and zero long-term social security. Existing financial safety nets (like EPF or private pensions) are built exclusively for salaried employees. Government welfare schemes exist, but low digital literacy and complex bureaucratic processes keep them inaccessible to the people who need them most.
 
 ### The Solution
-**ShramSetu** is an all-in-one digital infrastructure that bridges the gap between fragmented daily work opportunities and institutional financial security. It operates as a dual-sided platform:
+**ShramSamriddhi** is an all-in-one digital infrastructure that bridges the gap between fragmented daily work opportunities and institutional financial security. It operates as a dual-sided platform:
 1. **The Gig & Steady Work Aggregator:** Connects informal laborers with verified local contractors, commercial farmers, and enterprises.
 2. **The "Micro-EPF" & Scheme Router:** Automatically channels a microscopic percentage of daily earnings into a secure retirement fund, while an AI engine instantly detects, matches, and auto-enrolls the worker into eligible government welfare schemes.
 
